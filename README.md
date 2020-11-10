@@ -3,12 +3,6 @@
 I'm Hyung-min Kim, a researcher and developer who wants to solve the world's problems with a program.
 
 
-2020.09 ~         : ETRI(Electronics Technology Research Institute) in korea, Human Robot Interaction Lab, Student Researcher
-                    UST(University of Science and Technology) in korea, the master's candidate
-2019.12 ~ 2020.02 : ETRI(Electronics Technology Research Institute) in korea, Human Robot Interaction Lab, Undergraduate Research Internship
-2013.03 ~ 2020.02 : Korea Polytechnic University, mechatronics engineering
-          
-
 
 <!--
 **khm159/khm159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

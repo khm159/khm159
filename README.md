@@ -5,7 +5,7 @@ I'm Hyung-min Kim, a researcher and developer who wants to solve the world's pro
 [Publications] 
 
 1. Kim, Hyungmin, Dohyung Kim, and Jaehong Kim. "Learning Multi-modal Attentional Consensus in Action Recognition for Elderly-Care Robots." 2021 18th International Conference on Ubiquitous Robots (UR). IEEE, 2021.
-2. Kim, Hyungmin, Dohyung Kim, and Minsu Jang. "Multi-Modal Attentional Action Recognition for Service Robot",한국로봇학회 종합 학술 대회, 2021
+2. Kim, Hyungmin, Dohyung Kim, and Minsu Jang. "Multi-Modal Attentional Action Recognition for Service Robot", 한국로봇학회 종합 학술 대회, 2021
 3. Kim, Hyungmin, Dohyung Kim, and Jaehong Kim. "Mid-Level Feature Attentive Alignment for Cross-domain Action Recognition", Under review.
 
 

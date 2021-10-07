@@ -2,12 +2,6 @@
 
 I'm Hyung-min Kim, a researcher and developer who wants to solve the world's problems with a program.
 
-[Publications] 
-
-1. 김형민, 김도형, 장민수. "서비스 로봇을 위한 멀티 모달 주의 융합 기반 행동 인식", 한국로봇학회 종합 학술 대회, 2021
-2. Hyungmin Kim, Dohyung Kim, and Jaehong Kim. "Learning Multi-modal Attentional Consensus in Action Recognition for Elderly-Care Robots." 2021 18th International Conference on Ubiquitous Robots (UR). IEEE, 2021.
-3. Hyungmin Kim, Dohyung Kim, and Jaehong Kim. "Mid-Level Feature Attentive Alignment for Cross-domain Action Recognition", Under review.
-
 
 <!--
 **khm159/khm159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

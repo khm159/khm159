@@ -7,9 +7,11 @@
 Publication 
 -----------
 
-Kim, Hyungmin, Dohyung Kim, and Jaehong Kim. "Various-level Spatio-Temporal Alignment for Cross-domain Action Recognition" 2021 9th International Conference on Robot Intelligence Techonlogy and Applications(RiTA). IEEE, 2021.
+Kim, Hyungmin et al. "Various-level Spatio-Temporal Alignment for Cross-domain Action Recognition" 2021 9th International Conference on Robot Intelligence Techonlogy and Applications(RiTA). IEEE, 2021.
 
-Kim, Hyungmin, Dohyung Kim, and Jaehong Kim. "Learning Multi-modal Attentional Consensus in Action Recognition for Elderly-Care Robots." 2021 18th International Conference on Ubiquitous Robots (UR). IEEE, 2021.
+Kim, Hyungmin et al. "Learning Multi-modal Attentional Consensus in Action Recognition for Elderly-Care Robots." 2021 18th International Conference on Ubiquitous Robots (UR). IEEE, 2021.
+
+"서비스 로봇을 위한 멀티 모달 주의 융합 기반 행동 인식", 한국로봇학회 종합학술대회, 2021
 
 
 Job Experience 

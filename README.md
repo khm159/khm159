@@ -17,14 +17,18 @@ Kim, Hyungmin et al. "Learning Multi-modal Attentional Consensus in Action Recog
 Job Experience 
 -----------
 한국전자통신연구원, UST학생연구원, 2020.09 ~
+
 한국전자통신연구원, 연구연수생, 2020.01~ 2020.02
 
 
 Education
 -----------
 과학기술연합대학원대학교 한국전자통신연구원 캠퍼스 AI전공 2020.09 ~
+
 University of Science and Technology in Korea, Department of Artificial Intelligence, 2020.09 ~
+
 한국공학대학교(구 한국산업기술대학교) 메카트로닉스 공학과 2013.03 ~ 2020.03
+
 Korea University of Engineering, Department of Mechatronics, 2013.03 ~ 2020.03
 
 

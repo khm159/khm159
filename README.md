@@ -29,7 +29,7 @@ University of Science and Technology in Korea, Department of Artificial Intellig
 
 한국공학대학교(구 한국산업기술대학교) 메카트로닉스 공학과 2013.03 ~ 2020.03
 
-Korea University of Engineering, Department of Mechatronics, 2013.03 ~ 2020.03
+Korea University of Engineering(Korea Polytechnic University), Department of Mechatronics, 2013.03 ~ 2020.03
 
 
 

@@ -6,6 +6,13 @@ Project
 -----------
 
 - Abnormal Event Detection System for Surveillance Videos
+Intrusion 
+
+Loitering
+
+Falldown 
+
+Violence
 
 
 

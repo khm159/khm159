@@ -6,6 +6,7 @@ Project
 -----------
 
 - Abnormal Event Detection System for Surveillance Videos
+
 Intrusion 
 
 Loitering
@@ -14,7 +15,7 @@ Falldown
 
 Violence
 
-
+- MBTI-personality-based Face generation 
 
 
 Publication 

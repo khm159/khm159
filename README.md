@@ -2,6 +2,12 @@
 
 안녕하세요. 가치있는 컨텐츠를 생산하길 원하는 프로그래머 이자 연구자인 김형민 입니다. 
 
+Project 
+-----------
+
+- Abnormal Event Detection System for Surveillance Videos
+
+
 
 
 Publication 

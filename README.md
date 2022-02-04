@@ -20,8 +20,6 @@ Violence
 from AI-Hub 데이터셋 (without AI-Hub data training)
 
 
-- MBTI-personality-based Face generation 
-
 
 Publication 
 -----------

@@ -8,8 +8,8 @@ Project
 - Abnormal Event Detection System for Surveillance Videos
 
 |**Falldown**|
-|AI-Hub CCTV Abnormal Event Detection dataset|
 |------|
+|AI-Hub CCTV Abnormal Event Detection dataset|
 ||
 
 |**Violence**|

@@ -5,7 +5,7 @@
 Project 
 -----------
 
-- Abnormal Event Detection System for Surveillance Videos
+**- Abnormal Event Detection System for Surveillance Videos**
 
 |**Falldown**|
 |------|

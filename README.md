@@ -7,13 +7,9 @@ Project
 
 - Abnormal Event Detection System for Surveillance Videos
 
-Intrusion 
+[Falldown] 
 
-Loitering
-
-Falldown 
-
-Violence
+[Violence]
 
 ![violence01](./violence01.gif)
 ![violence01](./violence02.gif)

@@ -16,6 +16,8 @@ Falldown
 Violence
 
 ![violence01](./violence01.gif)
+from AI-Hub 데이터셋 (without AI-Hub data training)
+
 
 - MBTI-personality-based Face generation 
 

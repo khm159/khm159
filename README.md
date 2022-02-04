@@ -18,7 +18,7 @@ Project
 |![violence01](./violence03.gif)|
 |![violence02](./violence01.gif)|
 |![violence03](./violence02.gif)|
-|AI-Hub data is not used during evaluation process.|
+|AI-Hub data is not used for training data|
 
 
 

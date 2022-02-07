@@ -12,7 +12,7 @@ for KISA 지능형 CCTV 인증평가
 |**Falldown**|
 |------|
 |[AI-Hub CCTV Abnormal Event Detection dataset](https://aihub.or.kr/aidata/139/download)|
-|![falldown01](./falldown01.gif)|
+|![falldown01](./falldown04.gif)|
 |![falldown02](./falldown02.gif)|
 |![falldown03](./falldown03.gif)|
 |AI-Hub data is not used for training data|

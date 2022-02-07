@@ -7,6 +7,8 @@ Project
 
 **- Abnormal Event Detection System for Surveillance Videos**
 
+for KISA 지능형 CCTV 인증평가
+
 |**Falldown**|
 |------|
 |[AI-Hub CCTV Abnormal Event Detection dataset](https://aihub.or.kr/aidata/139/download)|

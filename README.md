@@ -33,6 +33,7 @@ for 고령자 안전감시 시스템
 
 |**Violence**|
 |------|
+|![violence_etri](./violence_etri.gif)|
 |[ETRI-Activity3D dataset](https://ai4robot.github.io/etri-activity3d-en/)|
 |ETRI-Activity3D data is not used for training|
 

@@ -64,11 +64,15 @@
   ![loitering](/assets/loitering.gif)
   
   **Intrusion**
-  
+
   ![inttrusion](/assets/intrusion.gif)
 
 # 5. Develop Project in person
 
+# Pose estimation-based application 
+
+![pose_demo](/assets/pose.gif)
+work in progress.
 
 # 6. Contact
 

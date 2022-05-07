@@ -37,15 +37,13 @@ for 고령자 안전감시 시스템
 |[ETRI-Activity3D dataset](https://ai4robot.github.io/etri-activity3d-en/)|
 |ETRI-Activity3D data is not used for training|
 
-for 지하철 역사 안전감시 시스템
-
 
 Publication 
 -----------
 
-Kim, Hyungmin et al. "Various-level Spatio-Temporal Alignment for Cross-domain Action Recognition" 2021 9th International Conference on Robot Intelligence Techonlogy and Applications(RiTA), 2021.
+Hyungmin Kim et al., “Various-Level Spatio-Temporal Alignment for Cross-Domain Action Recognition.”, International Conference on Robot Intelligence Technology Applications (RiTA), 2021, pp.323-335.
 
-Kim, Hyungmin et al. "Learning Multi-modal Attentional Consensus in Action Recognition for Elderly-Care Robots." 2021 18th International Conference on Ubiquitous Robots (UR), 2021.
+Hyungmin Kim et al., “Learning Multi-modal Attentional Consensus in Action Recognition for Elderly-Care Robots.”, 2021 18th International Conference on Ubiquitous Robots (UR), 2021, pp.308-313
 
 "서비스 로봇을 위한 멀티 모달 주의 융합 기반 행동 인식", 한국로봇학회 종합학술대회, 2021
 

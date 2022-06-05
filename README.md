@@ -2,7 +2,6 @@
 
 안녕하세요. 김형민 입니다. 
 
-[blog](https://khm159.github.io)
 
 # 1. Publication
 

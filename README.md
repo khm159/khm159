@@ -8,7 +8,8 @@
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 
   **2022**
-
+  - Hobeum jeon, Hyungmin Kim, Jaehong Kim, Dohyung Kim,  **"Lightweight framework for the violence and falling-down event occurrence detection for surveillance videos."**, *International Conference on ICT Convergence (ICTC)*, 2022, under review.
+  
   - Hyungmin Kim et al., **"Lightweight framework for the violence and falling-down event occurrence detection for surveillance videos."**, *International Conference on ICT Convergence (ICTC)*, 2022, under review.
   
   **2021**

@@ -19,6 +19,10 @@
   - Hyungmin Kim et al., **"Learning Multi-modal Attentional Consensus in Action Recognition for Elderly-Care Robots."**, *2021 18th International Conference on Ubiquitous Robots (UR)*, 2021, pp.308-313 
 
   - 김형민 외, **"서비스 로봇을 위한 멀티 모달 주의 융합 기반 행동 인식."**, *한국로봇종합학회(KROC) 특별세션.*, 2021.
+  
+  **2019**
+  
+  - 김형민, 배윤우, 양우성, 이재호, 이익현*, **"컴퓨터 비전을 이용한 과일 자동 분류 시스템"**, 한국정보기술학회 2019년도 하계 학술대회, pp.317-318, 2019.
 
 # 2. Job Experience 
 
@@ -40,9 +44,16 @@
 
   - 2013.03 ~ 2020.02 : Bachelor degree, Mechatronics, Tech University of Korea(TUKorea). 
 
-# 4. Develop Project in the Job
+# 4. Research Project 
 
-## 4.1 Development of the CCTV abnormal event detection system. 
+
+
+
+
+
+# 5. Develop Project in the Job
+
+## 5.1 Development of the CCTV abnormal event detection system. 
   
   2021.09 ~ current 
 
@@ -66,16 +77,16 @@
 
   ![inttrusion](/assets/intrusion.gif)
 
-# 5. Develop Project in person
+# 6. Develop Project in person
 
-# Pose estimation-based application 
+# 6.1 Pose estimation-based application 
 
 ![pose_demo](/assets/pose.gif)
 
 work in progress.
 
-# 6. Contact
+# 7. Contact
 
   If you have any question or offering, feel free to contact me anytime.
 
-  - E-mail : khm159@naver.com
+  - E-mail : khm159@ust.ac.kr

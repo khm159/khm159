@@ -45,11 +45,13 @@
   - 2013.03 ~ 2020.02 : Bachelor degree, Mechatronics, Tech University of Korea(TUKorea). 
 
 # 4. Research Project 
-
-
-
-
-
+  - 22.04-      인간과 로봇의 물리적 인지적 상호작용을 통하여 정서 교감이 가능한 반려로봇 기술 개발
+  
+  - 22.01-      실 환경 서비스 상황에서 사용자 반응에 지속적으로 지역(Local) 적응하는 로봇 지능 기술 개발
+  
+  - 20.09-21.12 [고령 사회에 대응하기 위한 실환경 휴먼케어 로봇 기술 개발](https://ai4robot.github.io/)
+  
+  - 20.01-20.02 산업통상자원부, 복합생활공간 내 국민체감형 생활안전 서비스를 위한 지능형 플랫폼 개발 
 
 # 5. Develop Project in the Job
 

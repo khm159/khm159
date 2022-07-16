@@ -9,7 +9,8 @@
 
   **2022**
 
-
+  - Hyungmin Kim et al., **"Lightweight framework for the violence and falling-down event occurrence detection for surveillance videos."**, *International Conference on ICT Convergence (ICTC)*, 2022, under review.
+  
   **2021**
 
   - Hyungmin Kim et al., **"Various-Level Spatio-Temporal Alignment for Cross-Domain Action Recognition."**, *International Conference on Robot Intelligence Technology Applications (RiTA)*, 2021, pp.323-335. 

@@ -9,7 +9,7 @@
 
 
   **2022** 
-  - Hobeum jeon, Hyungmin Kim, Dohyung Kim*, Jaehong Kim, **"Lightweight framework for the violence and falling-down event occurrence detection for surveillance videos."**, *International Conference on ICT Convergence (ICTC)*, 2022.
+  - Hobeum jeon, Hyungmin Kim, Dohyung Kim*, Jaehong Kim, **"Zero-shot Fire And Arson Detection Using Textual Descriptions."**, *International Conference on ICT Convergence (ICTC)*, 2022.
   
   - Hyungmin Kim et al., **"Lightweight framework for the violence and falling-down event occurrence detection for surveillance videos."**, *International Conference on ICT Convergence (ICTC)*, 2022.
   

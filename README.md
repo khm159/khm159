@@ -36,7 +36,11 @@
 
   ![ust](/assets/ust.png)
 
-  -  2020.09 ~ current : In Master course, Artificial Intelligence, University of Science and Technology in korea(UST). 
+  -  2022.09 ~ current : Phd. course, Artificial Intelligence, University of Science and Technology in korea(UST).
+  -  
+  ![ust](/assets/ust.png)
+
+  -  2020.09 ~ 2022.09 : Master degree, Artificial Intelligence, University of Science and Technology in korea(UST). 
 
   ![tukorea](/assets/tukorea.png)  
 

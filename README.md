@@ -13,6 +13,8 @@
   
   - Hyungmin Kim et al., **"Lightweight framework for the violence and falling-down event occurrence detection for surveillance videos."**, *International Conference on ICT Convergence (ICTC)*, 2022.
   
+  - 김형민 외., **"일상 행동 분류를 위한 멀티 모달 행동 인식 모델 특징맵 융합 방법", 정보기술융합공학논문지**
+  
   **2021**
 
   - Hyungmin Kim et al., **"Various-Level Spatio-Temporal Alignment for Cross-Domain Action Recognition."**, *International Conference on Robot Intelligence Technology Applications (RiTA)*, 2021, pp.323-335. 

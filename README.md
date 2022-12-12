@@ -94,14 +94,6 @@
   ![inttrusion](/assets/intrusion.gif)
   
 
-# 6. Develop Project in person
-
-# 6.1 Pose estimation-based application 
-
-![pose_demo](/assets/pose.gif)
-
-work in progress.
-
 # 7. Contact
 
   If you have any question or offering, feel free to contact me anytime.

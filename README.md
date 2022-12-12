@@ -5,7 +5,6 @@
 # News. 
 
   **2022** 
-  
   -2022.12 [KISA CCTV 공인인증 7항목 동시 획득](https://www.ksecurity.or.kr/user/extra/kisis/94/certification/certificationList2/jsp/LayOutPage.do?setIdx=2) 
   
 

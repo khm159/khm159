@@ -5,7 +5,10 @@
 # News. 
 
   **2022** 
-  -2022.12 [KISA CCTV 공인인증 7항목 동시 획득](https://www.ksecurity.or.kr/user/extra/kisis/94/certification/certificationList2/jsp/LayOutPage.do?setIdx=2) 
+  
+  2022.12 [KISA CCTV 공인인증 7항목 동시 획득](https://www.ksecurity.or.kr/user/extra/kisis/94/certification/certificationList2/jsp/LayOutPage.do?setIdx=2) 
+  
+  2022.
   
 
 # 1. Publication
@@ -66,9 +69,11 @@
 
 ## 5.1 Development of the CCTV abnormal event detection system. 
   
-  2021.09 ~ current 
+  2021.09 ~ 2022.12
 
   This project is performed for the [KISA Intelligence CCTV Certification](https://www.ksecurity.or.kr/kisis/subIndex/91.do)
+  
+  [KISA 지능형 CCTV 공인인증 7항목(배회, 침입, 유기, 방화, 쓰러짐, 싸움) 동시 획득 완료(2022.12)](https://www.ksecurity.or.kr/user/extra/kisis/94/certification/certificationList2/jsp/LayOutPage.do?setIdx=2) 
 
   **Violence** 
 
@@ -87,6 +92,7 @@
   **Intrusion**
 
   ![inttrusion](/assets/intrusion.gif)
+  
 
 # 6. Develop Project in person
 

@@ -13,7 +13,6 @@
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 
-
   **2022** 
   - Hobeum jeon, Hyungmin Kim, Dohyung Kim*, Jaehong Kim, **"Zero-shot Fire And Arson Detection Using Textual Descriptions."**, *International Conference on ICT Convergence (ICTC)*, 2022.
   
@@ -28,7 +27,6 @@
   - Hyungmin Kim et al., **"Learning Multi-modal Attentional Consensus in Action Recognition for Elderly-Care Robots."**, *2021 18th International Conference on Ubiquitous Robots (UR)*, 2021, pp.308-313 
 
   - 김형민 외, **"서비스 로봇을 위한 멀티 모달 주의 융합 기반 행동 인식."**, *한국로봇종합학회(KROC) 특별세션.*, 2021.
-  
 
 # 2. Job Experience 
 
@@ -91,8 +89,11 @@
 
   ![inttrusion](/assets/intrusion.gif)
   
+## 5.2 Synthetic Human Generation Project 
 
-# 7. Contact
+work in progress.
+
+# 6. Contact
 
   If you have any question or offering, feel free to contact me anytime.
 

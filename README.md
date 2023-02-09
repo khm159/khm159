@@ -6,7 +6,7 @@
 
   **2022** 
   
-  -22.12.21 [KISA CCTV 공인인증 7항목 동시 획득 성공]([https://www.ksecurity.or.kr/user/extra/kisis/94/certification/certificationList2/jsp/LayOutPage.do?setIdx=2](https://kr.investing.com/news/stock-market-news/article-878655)) ETRI-AIR, ETRI-AIR2
+  -22.12.21 [KISA CCTV 공인인증 7항목 동시 획득 성공](https://mobile.newsis.com/view.html?ar_id=NISX20230208_0002185475&cID=&pID=00#_enliplee) ETRI-AIR, ETRI-AIR2
 
 
 # 1. Publication
@@ -70,7 +70,7 @@
 
   This project is performed for the [KISA Intelligence CCTV Certification](https://www.ksecurity.or.kr/kisis/subIndex/91.do)
   
-  [KISA 지능형 CCTV 공인인증 7항목(배회, 침입, 유기, 방화, 쓰러짐, 싸움) 동시 획득 완료(2022.12.21)]([https://www.ksecurity.or.kr/user/extra/kisis/94/certification/certificationList2/jsp/LayOutPage.do?setIdx=2](https://kr.investing.com/news/stock-market-news/article-878655)) 
+  [KISA 지능형 CCTV 공인인증 7항목(배회, 침입, 유기, 방화, 쓰러짐, 싸움) 동시 획득 완료(2022.12.21)](https://mobile.newsis.com/view.html?ar_id=NISX20230208_0002185475&cID=&pID=00#_enliple)
 
   **Violence** 
 

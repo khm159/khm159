@@ -90,9 +90,10 @@
 
   ![inttrusion](/assets/intrusion.gif)
   
-## 5.2 Synthetic Human Generation Project 
+# 6. Develop Project in personal
 
-work in progress.
+## 6.1 PLD Project: Pedestrain light detection for visually impared 
+
 
 # 6. Contact
 

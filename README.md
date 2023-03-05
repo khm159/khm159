@@ -80,9 +80,11 @@
 
   ![inttrusion](/assets/intrusion.gif)
   
-# 5. Develop Project in personal
+# 5. Project in personal
 
 #### [5.1 PLD Project: Pedestrain light detection for visually impared](https://github.com/khm159/PLD_project) 
+
+#### [5.2 Golf Buddy: Motion Guidance System for Golf swing]
 
 
 # 6. Contact

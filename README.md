@@ -92,7 +92,7 @@
   
 # 6. Develop Project in personal
 
-## 6.1 PLD Project: Pedestrain light detection for visually impared 
+#### [6.1 PLD Project: Pedestrain light detection for visually impared](https://github.com/khm159/PLD_project) 
 
 
 # 6. Contact

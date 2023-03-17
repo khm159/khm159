@@ -86,8 +86,11 @@
 
 #### [5.2 Golf Buddy: Motion Guidance System for Golf swing]()
 
+Work in progress
+
 #### [5.3 KoSpeechGes: Korean Speech-Gesture Generation Project]()
 
+Work in progress
 
 # 6. Contact
 

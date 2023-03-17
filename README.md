@@ -84,7 +84,9 @@
 
 #### [5.1 PLD Project: Pedestrain light detection for visually impared](https://github.com/khm159/PLD_project) 
 
-#### [5.2 Golf Buddy: Motion Guidance System for Golf swing]
+#### [5.2 Golf Buddy: Motion Guidance System for Golf swing]()
+
+#### [5.3 KoSpeechGes: Korean Speech-Gesture Generation Project]()
 
 
 # 6. Contact

@@ -17,9 +17,9 @@
 
   **2023** 
 
-  - Kim, Hyungin, et al. "Elevating Urban Surveillance: A Deep CCTV Monitoring System for Detection of Anomalous Events via Human Action Recognition", *Sustainable Cities and Society*. *Under review*.
+  - Kim, Hyungin, et al. **"Elevating Urban Surveillance: A Deep CCTV Monitoring System for Detection of Anomalous Events via Human Action Recognition"**, *Sustainable Cities and Society*. *Under review*.
 
-  - Kim, Hyungmin, et al. "A simple baseline for domain generalization of action recognition and a realistic out-of-domain scenario." *2023 20th International Conference on Ubiquitous Robots (UR)*. 2023.
+  - Kim, Hyungmin, et al. **"A simple baseline for domain generalization of action recognition and a realistic out-of-domain scenario."**, *2023 20th International Conference on Ubiquitous Robots (UR)*. 2023.
 
   **2022** 
   - Hobeum jeon, Hyungmin Kim, Dohyung Kim*, Jaehong Kim, **"Zero-shot Fire And Arson Detection Using Textual Descriptions."**, *International Conference on ICT Convergence (ICTC)*, 2022.

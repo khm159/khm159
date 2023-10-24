@@ -14,6 +14,12 @@
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 
   **2022** 
+
+  - Kim, Hyungin, et al. "Elevating Urban Surveillance: A Deep CCTV Monitoring System for Detection of Anomalous Events via Human Action Recognition", *Sustainable Cities and Society*. *Under review*.
+
+  - Kim, Hyungmin, et al. "A simple baseline for domain generalization of action recognition and a realistic out-of-domain scenario." *2023 20th International Conference on Ubiquitous Robots (UR)*. 2023.
+
+  **2022** 
   - Hobeum jeon, Hyungmin Kim, Dohyung Kim*, Jaehong Kim, **"Zero-shot Fire And Arson Detection Using Textual Descriptions."**, *International Conference on ICT Convergence (ICTC)*, 2022.
   
   - Hyungmin Kim et al., **"Lightweight framework for the violence and falling-down event occurrence detection for surveillance videos."**, *International Conference on ICT Convergence (ICTC)*, 2022.
@@ -42,11 +48,11 @@
 
   ![ust](/assets/ust.png)
 
-  -  2022.09 ~ current : Phd. course, Artificial Intelligence, University of Science and Technology in korea(UST).
+  -  2022.09 ~ current : Phd. course, Artificial Intelligence, Korea National University of Science and Technology (UST).
   
   ![ust](/assets/ust.png)
 
-  -  2020.09 ~ 2022.09 : Master degree, Artificial Intelligence, University of Science and Technology in korea(UST). 
+  -  2020.09 ~ 2022.09 : Master degree, Artificial Intelligence, Korea National University of Science and Technology (UST). 
 
   ![tukorea](/assets/tukorea.png)  
 
@@ -81,14 +87,6 @@
   ![inttrusion](/assets/intrusion.gif)
   
 # 5. Project in personal
-
-#### [5.1 PLD Project: Pedestrain light detection for visually impared](https://github.com/khm159/PLD_project) 
-
-#### [5.2 Golf Buddy: Motion Guidance System for Golf swing]()
-
-Work in progress
-
-#### [5.3 KoSpeechGes: Korean Speech-Gesture Generation Project]()
 
 Work in progress
 

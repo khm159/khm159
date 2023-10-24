@@ -13,7 +13,7 @@
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 
-  **2022** 
+  **2023** 
 
   - Kim, Hyungin, et al. "Elevating Urban Surveillance: A Deep CCTV Monitoring System for Detection of Anomalous Events via Human Action Recognition", *Sustainable Cities and Society*. *Under review*.
 

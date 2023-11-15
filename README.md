@@ -5,13 +5,19 @@
 # News. 
 
   **2023**
-  - 국내 특허 1건, 국제 특허 2건(미국, 중국) 특허 출원, 심사중.
+
+  - 23.10.09 국제 특허(중국) 1건 출원
+  
+  - 23.10.02 국제 특허(미국) 1건 출원
+  
+  - 23.05.17 국내 특허 1건 출원 
 
   **2022** 
   
-  -22.12.21 [KISA CCTV 공인인증 7항목 동시 획득 성공](https://mobile.newsis.com/view.html?ar_id=NISX20230208_0002185475&cID=&pID=00#_enliplee) ETRI-AIR, ETRI-AIR2
+  - 22.12.21 [KISA CCTV 공인인증 7항목 동시 획득 성공](https://mobile.newsis.com/view.html?ar_id=NISX20230208_0002185475&cID=&pID=00#_enliplee) ETRI-AIR, ETRI-AIR2
 
-
+  - 22.05.17 국내 특허 1건 출원
+ 
 # 1. Publication
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)

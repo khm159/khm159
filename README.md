@@ -17,8 +17,11 @@
   - 22.12.21 [KISA CCTV 공인인증 7항목 동시 획득 성공](https://mobile.newsis.com/view.html?ar_id=NISX20230208_0002185475&cID=&pID=00#_enliplee) ETRI-AIR, ETRI-AIR2
 
   - 22.05.17 국내 특허 1건 출원
- 
-# 1. Publication
+
+
+# 1. Patent
+
+# 2. Publication
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 
@@ -43,7 +46,7 @@
 
   - 김형민 외, **"서비스 로봇을 위한 멀티 모달 주의 융합 기반 행동 인식."**, *한국로봇종합학회(KROC) 특별세션.*, 2021.
 
-# 2. Job Experience 
+# 3. Job Experience 
 
   ![etri](/assets/etri.png)
 

@@ -21,6 +21,17 @@
 
 # 1. Patent
 
+   - APPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTIONAPPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTION, CHINA, 202311294352.8 (23.10.08)
+  
+   - APPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTIONAPPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTION, US, 18/479499 (23.10.02)
+
+   - 통합형 이상 상황 탐지 방법 및 장치통합형 이상 상황 탐지 방법 및 장치, 10-2023-0063771 (23.05.17)
+     
+   - 지능형 영상 감시를 위한 이상 상황 탐지 장치 및방법지능형 영상 감시를 위한 이상 상황 탐지 장치 및 방법, 10-2022-0128070 (22.10.06)
+
+
+
+
 # 2. Publication
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)

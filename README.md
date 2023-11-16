@@ -111,10 +111,11 @@
   
 # 5. Project in personal
 
-Work in progress
+  5.1. [DeepUnmannedStore](https://github.com/khm159/deepunmannedstore)
+
 
 # 6. Contact
 
-  If you have any question or offering, feel free to contact me anytime.
+  If you have any question, feel free to contact me anytime.
 
   - E-mail : khm159@ust.ac.kr khm159@naver.com

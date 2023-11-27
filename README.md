@@ -113,8 +113,9 @@
 
   5.1. [DeepUnmannedStore](https://github.com/khm159/deepunmannedstore)
 
+# 6. [Paper reading](https://github.com/khm159/paper_reading) 
 
-# 6. Contact
+# 7. Contact
 
   If you have any question, feel free to contact me anytime.
 

@@ -111,11 +111,9 @@
   
 # 5. Project in personal
 
-  5.1. [DeepUnmannedStore](https://github.com/khm159/deepunmannedstore)
+  [5.1.DeepUnmannedStore](https://github.com/khm159/deepunmannedstore) : Work in progress
 
-# 6. [Paper reading](https://github.com/khm159/paper_reading) 
-
-# 7. Contact
+# 6. Contact
 
   If you have any question, feel free to contact me anytime.
 

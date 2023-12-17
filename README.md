@@ -30,15 +30,11 @@
    - 지능형 영상 감시를 위한 이상 상황 탐지 장치 및방법지능형 영상 감시를 위한 이상 상황 탐지 장치 및 방법, 10-2022-0128070 (22.10.06)
 
 
-
-
 # 2. Publication
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 
   **2023** 
-
-  - Kim, Hyungin, et al. **"Elevating Urban Surveillance: A Deep CCTV Monitoring System for Detection of Anomalous Events via Human Action Recognition"**, *Sustainable Cities and Society*. *Under review* (IF 11.7).
 
   - Kim, Hyungmin, et al. **"A simple baseline for domain generalization of action recognition and a realistic out-of-domain scenario."**, *2023 20th International Conference on Ubiquitous Robots (UR)*. 2023.
 

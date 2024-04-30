@@ -102,4 +102,4 @@
 
   If you have any question, feel free to contact me anytime.
 
-  - E-mail : khm159@ust.ac.kr khm159@naver.com
+  - Hire Me : khm159@ust.ac.kr khm159@naver.com

@@ -100,6 +100,4 @@
 
 # 6. Contact
 
-  If you have any question, feel free to contact me anytime.
-
   - Hire Me : khm159@ust.ac.kr khm159@naver.com

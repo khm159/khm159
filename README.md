@@ -96,7 +96,9 @@
   
 # 5. Project in personal
 
-  [5.1.DeepUnmannedStore](https://github.com/khm159/deepunmannedstore) : Work in progress
+  기술 데모용 프로그램 입니다. 
+
+  - [[eye_of_city_project]]()
 
 # 6. Contact
 

@@ -4,6 +4,10 @@
 
 # News. 
 
+  **2024**
+
+  - one paper accecpted [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+
   **2023**
 
   - 23.10.09 국제 특허(중국) 1건 출원
@@ -22,6 +26,10 @@
 # 1. Publication
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
+
+  **2024**
+
+  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim*, Jaehong Kim, **"PASS-CCTV: Proactive Anomaly surveillance system for CCTV footage analysis in adverse environmental conditions."**, *Expert Systems With Applications*, Elsevier, 2024. (IF 8.5)
 
   **2023** 
 

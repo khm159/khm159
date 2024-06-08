@@ -6,7 +6,7 @@
 
   **2024**
 
-  - one paper accecpted [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+  - one paper accecpted @[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 
   **2023**
 

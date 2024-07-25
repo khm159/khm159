@@ -22,8 +22,15 @@
 
   - 22.05.17 국내 특허 1건 출원
 
+# 1. Patent 
 
-# 1. Publication
+  - APPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTIONAPPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTION, CHINA, 202311294352.8 (23.10.08)
+
+  - APPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTIONAPPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTION, US, 18/479499 (23.10.02)
+
+  - 통합형 이상 상황 탐지 방법 및 장치통합형 이상 상황 탐지 방법 및 장치, 10-2023-0063771 (23.05.17)
+
+# 2. Publication
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 
@@ -50,7 +57,7 @@
 
   - 김형민 외, **"서비스 로봇을 위한 멀티 모달 주의 융합 기반 행동 인식."**, *한국로봇종합학회(KROC) 특별세션.*, 2021.
 
-# 2. Job Experience 
+# 3. Job Experience 
 
   ![etri](/assets/etri.png)
 
@@ -60,7 +67,7 @@
 
   - 2020.01 ~ 2020.02 : Student Intern, Electronics and Telecommunications Research Institute(ETRI).
 
-# 3. Education
+# 4. Education
 
   ![ust](/assets/ust.png)
 
@@ -74,15 +81,24 @@
 
   - 2013.03 ~ 2020.02 : Bachelor degree, Mechatronics, Tech University of Korea(TUKorea). 
 
-# 4. Develop Project in the Job
+# 5. Develop Project in the Job
 
-## 4.1 Development of the CCTV abnormal event detection system. 
+## 5.1 Development of the CCTV abnormal event detection system. 
   
   2021.09 ~ 2022.12
 
   This project is performed for the [KISA Intelligence CCTV Certification](https://www.ksecurity.or.kr/kisis/subIndex/91.do)
   
-  [KISA 지능형 CCTV 공인인증 7항목(배회, 침입, 유기, 방화, 쓰러짐, 싸움) 동시 획득 완료(2022.12.21)](https://mobile.newsis.com/view.html?ar_id=NISX20230208_0002185475&cID=&pID=00#_enliple)
+  [KISA 지능형 CCTV 공인인증 7항목(배회, 침입, 유기, 방화, 쓰러짐, 싸움) 동시 획득 완료(2022.12.21) 동시 획득 최초](https://mobile.newsis.com/view.html?ar_id=NISX20230208_0002185475&cID=&pID=00#_enliple)
+
+      - ['범죄·사고 상황 다 잡아내' 똑똑한 CCTV/대전MBC](https://www.youtube.com/watch?v=hJnHTGOK7zI&t=1s)
+   
+      - [[사이언스 취재파일] 범죄 감시하고 신고까지…지능형 CCTV 주목! / YTN 사이언스](https://www.youtube.com/watch?v=ZM0Wm5f6Eg8&t=310s)
+  
+      - [안갯속 움직임까지 잡아내는 CCTV, 학생들이 개발 / KBS 2023.02.09.](https://www.youtube.com/watch?v=YfyuYIVSuz8)
+
+      - ["미리 예측해 경보한다"..UST 박사과정 학생들이 개발한 '똑똑한 CCTV'｜ TJB 대전·세종·충남뉴스](https://www.youtube.com/watch?v=YKx1ZFIiQ9s)
+
 
   **Violence** 
 

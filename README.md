@@ -89,15 +89,15 @@
 
   This project is performed for the [KISA Intelligence CCTV Certification](https://www.ksecurity.or.kr/kisis/subIndex/91.do)
   
-  [KISA 지능형 CCTV 공인인증 7항목(배회, 침입, 유기, 방화, 쓰러짐, 싸움) 동시 획득 완료(2022.12.21) 동시 획득 최초](https://mobile.newsis.com/view.html?ar_id=NISX20230208_0002185475&cID=&pID=00#_enliple)
+  - [KISA 지능형 CCTV 공인인증 7항목(배회, 침입, 유기, 방화, 쓰러짐, 싸움) 동시 획득 완료(2022.12.21) 동시 획득 최초](https://mobile.newsis.com/view.html?ar_id=NISX20230208_0002185475&cID=&pID=00#_enliple)
 
-      - ['범죄·사고 상황 다 잡아내' 똑똑한 CCTV/대전MBC](https://www.youtube.com/watch?v=hJnHTGOK7zI&t=1s)
+  - ['범죄·사고 상황 다 잡아내' 똑똑한 CCTV/대전MBC](https://www.youtube.com/watch?v=hJnHTGOK7zI&t=1s)
    
-      - [[사이언스 취재파일] 범죄 감시하고 신고까지…지능형 CCTV 주목! / YTN 사이언스](https://www.youtube.com/watch?v=ZM0Wm5f6Eg8&t=310s)
+  - [[사이언스 취재파일] 범죄 감시하고 신고까지…지능형 CCTV 주목! / YTN 사이언스](https://www.youtube.com/watch?v=ZM0Wm5f6Eg8&t=310s)
   
-      - [안갯속 움직임까지 잡아내는 CCTV, 학생들이 개발 / KBS 2023.02.09.](https://www.youtube.com/watch?v=YfyuYIVSuz8)
+  - [안갯속 움직임까지 잡아내는 CCTV, 학생들이 개발 / KBS 2023.02.09.](https://www.youtube.com/watch?v=YfyuYIVSuz8)
 
-      - ["미리 예측해 경보한다"..UST 박사과정 학생들이 개발한 '똑똑한 CCTV'｜ TJB 대전·세종·충남뉴스](https://www.youtube.com/watch?v=YKx1ZFIiQ9s)
+  - ["미리 예측해 경보한다"..UST 박사과정 학생들이 개발한 '똑똑한 CCTV'｜ TJB 대전·세종·충남뉴스](https://www.youtube.com/watch?v=YKx1ZFIiQ9s)
 
 
   **Violence** 

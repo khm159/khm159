@@ -79,11 +79,13 @@
 
   ![tukorea](/assets/tukorea.png)  
 
-  - 2013.03 ~ 2020.02 : Bachelor degree, Mechatronics, Tech University of Korea(TUKorea). 
+  - 2013.03 ~ 2020.02 : Bachelor degree, Mechatronics, Tech University of Korea(TUKorea).
 
-# 5. Develop Project in the Job
+# 5. Technology Transfer
 
-## 5.1 Development of the CCTV abnormal event detection system. 
+# 6. Develop Project in the Job
+
+## 6.1 Development of the CCTV abnormal event detection system. 
   
   2021.09 ~ 2022.12
 
@@ -118,12 +120,7 @@
 
   ![inttrusion](/assets/intrusion.gif)
   
-# 5. Project in personal
 
-  기술 데모용 프로그램 입니다. 
-
-  - [[eye_of_city_project]]()
-
-# 6. Contact
+# 7. Contact
 
   - Hire Me : khm159@ust.ac.kr khm159@naver.com

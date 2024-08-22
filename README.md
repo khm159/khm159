@@ -79,6 +79,9 @@
 
 # 5. Technology Transfer
 
+ - 2024.08.12. 지능형 영상 감시를 위한 휴먼 이상 행동 인식 기술, 5000 만원 
+
+
 # 6. Develop Project in the Job
 
 ## 6.1 Development of the CCTV abnormal event detection system. 

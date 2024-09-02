@@ -1,3 +1,15 @@
+# Research Interest
+
+- Action Recognition/Detection
+ 
+- Abnormal Behavior Detection System
+
+- Domain Adaptation/Generalization
+
+- Task Planning for Embodied Agent
+
+- Task Planning 
+
 # News. 
 
   **2024**

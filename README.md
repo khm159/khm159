@@ -1,6 +1,8 @@
 # News. 
 
   **2024**
+  
+  - one paper accecpted @*[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)*
 
   - one paper accecpted @*[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*
 
@@ -31,8 +33,10 @@
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 
   **2024**
+  
+  - Hyungmin Kim,Hobeom Jeon, Dohyung Kim*, and Jaehong Kim,  **"Elevating Urban Surveillance: A Deep CCTV Monitoring System for Detection of Anomalous Events via Human Action Recognition."**, *Sustainable Cities and Society*, Elsevier, 2024. (IF 11.7 @ 2023)
 
-  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim*, Jaehong Kim, **"PASS-CCTV: Proactive Anomaly surveillance system for CCTV footage analysis in adverse environmental conditions."**, *Expert Systems With Applications*, Elsevier, 2024. (IF 8.5)
+  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim*, and Jaehong Kim, **"PASS-CCTV: Proactive Anomaly surveillance system for CCTV footage analysis in adverse environmental conditions."**, *Expert Systems With Applications*, Elsevier, 2024. (IF 8.5 @ 2023)
 
   **2023** 
 

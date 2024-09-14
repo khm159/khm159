@@ -142,4 +142,5 @@
 
 # 7. Contact
 
-  - Hire Me : khm159@ust.ac.kr khm159@naver.com
+khm159@ust.ac.kr
+khm159@etri.re.kr

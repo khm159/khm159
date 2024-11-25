@@ -46,9 +46,9 @@
 
   **2024**
   
-  - Hyungmin Kim,Hobeom Jeon, Dohyung Kim*, and Jaehong Kim,  **"Elevating Urban Surveillance: A Deep CCTV Monitoring System for Detection of Anomalous Events via Human Action Recognition."**, *Sustainable Cities and Society*, Elsevier, 2024. (IF 11.7 @ 2023)
+  - Hyungmin Kim,Hobeom Jeon, Dohyung Kim*, and Jaehong Kim,  **"Elevating Urban Surveillance: A Deep CCTV Monitoring System for Detection of Anomalous Events via Human Action Recognition."**, *Sustainable Cities and Society*, Elsevier, 2024. (IF 10.5 @ 2023, Q1 (98.37%))
 
-  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim*, and Jaehong Kim, **"PASS-CCTV: Proactive Anomaly surveillance system for CCTV footage analysis in adverse environmental conditions."**, *Expert Systems With Applications*, Elsevier, 2024. (IF 8.5 @ 2023)
+  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim*, and Jaehong Kim, **"PASS-CCTV: Proactive Anomaly surveillance system for CCTV footage analysis in adverse environmental conditions."**, *Expert Systems With Applications*, Elsevier, 2024. (IF 7.5 @ 2023, Q1 (94.8%))
 
   **2023** 
 

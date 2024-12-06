@@ -13,6 +13,8 @@
 # News. 
 
   **2024**
+
+  - Congratulations on receiving the Excellence Award for the UST 2024 Research Paper Award!
   
   - one paper accecpted @*[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)*
 
@@ -31,6 +33,10 @@
   - 22.12.21 [KISA CCTV 공인인증 7항목 동시 획득 성공(최초)](https://mobile.newsis.com/view.html?ar_id=NISX20230208_0002185475&cID=&pID=00#_enliplee) ETRI-AIR, ETRI-AIR2
 
   - 22.05.17 국내 특허 1건 출원
+
+# Awards
+
+- Exellence Award of UST 2024 Research Paper Award 
 
 # 1. Patent 
 

@@ -58,14 +58,14 @@
 
   **2023** 
 
-  - Kim, Hyungmin, et al. **"A simple baseline for domain generalization of action recognition and a realistic out-of-domain scenario."**, *2023 20th International Conference on Ubiquitous Robots (UR)*. 2023.
+  - Hyungmin Kim, et al. **"A simple baseline for domain generalization of action recognition and a realistic out-of-domain scenario."**, *2023 20th International Conference on Ubiquitous Robots (UR)*. 2023.
 
   **2022** 
   - Hobeum jeon, Hyungmin Kim, Dohyung Kim*, Jaehong Kim, **"Zero-shot Fire And Arson Detection Using Textual Descriptions."**, *International Conference on ICT Convergence (ICTC)*, 2022.
   
   - Hyungmin Kim et al., **"Lightweight framework for the violence and falling-down event occurrence detection for surveillance videos."**, *International Conference on ICT Convergence (ICTC)*, 2022.
   
-  - 김형민 외., **"일상 행동 분류를 위한 멀티 모달 행동 인식 모델 특징맵 융합 방법"**, 정보기술융합공학논문지
+  - 김형민 외., **"일상 행동 분류를 위한 멀티 모달 행동 인식 모델 특징맵 융합 방법"**, 정보기술융합공학논문지 [KCI 등재지]
   
   **2021**
 

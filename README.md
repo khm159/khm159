@@ -14,7 +14,7 @@
 
   **2024**
 
-  - Congratulations on receiving the Excellence Award for the UST 2024 Research Paper Award!
+  - Congratulations on receiving the Excellence Award for the [UST 2024 Research Paper Award](https://www.etnews.com/20241223000402)!
   
   - one paper accecpted @*[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)*
 
@@ -36,7 +36,7 @@
 
 # Awards
 
-- Exellence Award of UST 2024 Research Paper Award 
+- [Exellence Award of UST 2024 Research Paper Award(UST 연구 논문상 우수상)](https://www.etnews.com/20241223000402)
 
 # 1. Patent 
 

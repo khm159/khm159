@@ -20,6 +20,8 @@
 
   - one paper accecpted @*[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*
 
+  - 24.12.04 국내 특허 1건 출원
+
   **2023**
 
   - 23.10.09 국제 특허(중국) 1건 출원
@@ -39,6 +41,8 @@
 - [Exellence Award of UST 2024 Research Paper Award(UST 연구 논문상 우수상)](https://www.etnews.com/20241223000402)
 
 # 1. Patent 
+
+  - ACT 유형 및 EXPAND 유형 중 어느 하나의 다음 단계를 생성하는 거대 언어 모델 기반 작업 계획 방법 및 장치, 출원 (24.12.04)
 
   - APPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTIONAPPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTION, CHINA, 출원 (23.10.08)
 

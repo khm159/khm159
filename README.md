@@ -20,8 +20,6 @@
 
   - one paper accecpted @*[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*
 
-  - 24.12.04 국내 특허 1건 출원
-
   **2023**
 
   - 23.10.09 국제 특허(중국) 1건 출원

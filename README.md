@@ -1,4 +1,4 @@
-# News. 
+# News
 
   **2024**
 
@@ -26,7 +26,7 @@
 
 - [Exellence Award of UST 2024 Research Paper Award(UST 연구 논문상 우수상)](https://www.etnews.com/20241223000402)
 
-# 1. Patent 
+# Patent 
 
   - APPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTIONAPPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTION, CHINA, 출원 (23.10.08)
 
@@ -34,7 +34,7 @@
 
   - 통합형 이상 상황 탐지 방법 및 장치통합형 이상 상황 탐지 방법 및 장치, 출원 (23.05.17)
 
-# 2. Publication
+# Publication
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 
@@ -61,7 +61,7 @@
 
   - Hyungmin Kim et al., **"Learning Multi-modal Attentional Consensus in Action Recognition for Elderly-Care Robots."**, *2021 18th International Conference on Ubiquitous Robots (UR)*, 2021, pp.308-313 
 
-# 3. Job Experience 
+# Job Experience 
 
   ![etri](/assets/etri.png)
 
@@ -71,7 +71,7 @@
 
   - 2020.01 ~ 2020.02 : Student Intern, Electronics and Telecommunications Research Institute(ETRI).
 
-# 4. Education
+# Education
 
   ![ust](/assets/ust.png)
 
@@ -85,7 +85,7 @@
 
   - 2013.03 ~ 2020.02 : Bachelor degree, Mechatronics, Tech University of Korea(TUKorea).
 
-# 5. Technology Transfer
+# Technology Transfer
 
  - 기술이전 누계액 : 1억원
 
@@ -93,11 +93,11 @@
   
  - 2024.08.12. 지능형 영상 감시를 위한 휴먼 이상 행동 인식 기술, 5000 만원
 
-# 6. Research Topic
+# Research Topic
 
 ## Video Understanding 
 
-![/assets/violence02.gif]
+![human](/assets/violence02.gif)
 
 ## Embodied Task Planning 
 

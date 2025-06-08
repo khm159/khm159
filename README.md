@@ -61,8 +61,6 @@
 
   - Hyungmin Kim et al., **"Learning Multi-modal Attentional Consensus in Action Recognition for Elderly-Care Robots."**, *2021 18th International Conference on Ubiquitous Robots (UR)*, 2021, pp.308-313 
 
-  - 김형민 외, **"서비스 로봇을 위한 멀티 모달 주의 융합 기반 행동 인식."**, *한국로봇종합학회(KROC) 특별세션.*, 2021.
-
 # 3. Job Experience 
 
   ![etri](/assets/etri.png)

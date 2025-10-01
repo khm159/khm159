@@ -1,4 +1,5 @@
 # News
+  **2025**
 
   **2024**
 
@@ -37,6 +38,8 @@
 # Publication
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
+  
+  **2025**
 
   **2024**
   

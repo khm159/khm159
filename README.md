@@ -42,6 +42,8 @@
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
   
   **2025**
+  
+  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **"Communicative PARTNR: Natural Language Communication under Partial Observability in Human–Robot Collaboration"**, ICCV Workshop on Human-Robot-Scene Interaction and Collaboration, 2025.
 
   **2024**
   

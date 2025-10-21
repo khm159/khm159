@@ -3,6 +3,8 @@
   
   - 25.09.09 국내 특허 1건 출원
 
+  - Hyungmin Kimet al., Safety-Aware Partially-Observable Embodied Task Planning, ICCV SafeMM-AI workshop 2025
+
   **2024**
 
   - Congratulations on receiving the Excellence Award for the [UST 2024 Research Paper Award](https://www.etnews.com/20241223000402)!

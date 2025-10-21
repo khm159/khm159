@@ -3,9 +3,7 @@
   
   - 25.09.09 국내 특허 1건 출원
 
-  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Communicative PARTNR: Natural Language Communication under Partial Observability in Human–Robot Collaboration, ICCV  Workshop on Human-Robot-Scene Interaction and Collaboration, 2025
-
-  - Hyungmin Kimet al., Safety-Aware Partially-Observable Embodied Task Planning, ICCV SafeMM-AI workshop 2025
+  - Two papers are accepted at ICCV 2025 Workshop 
 
   **2024**
 
@@ -46,6 +44,8 @@
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
   
   **2025**
+
+  - Hyungmin Kim, et al., Safety-Aware Partially-Observable Embodied Task Planning,  The Workshop on Safe and Trustworthy Multimodal AI Systems at ICCV 2025
   
   - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **"Communicative PARTNR: Natural Language Communication under Partial Observability in Human–Robot Collaboration"**, ICCV Workshop on Human-Robot-Scene Interaction and Collaboration, 2025.
 

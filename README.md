@@ -45,7 +45,7 @@
   
   **2025**
 
-  - Hyungmin Kim, et al., Safety-Aware Partially-Observable Embodied Task Planning,  The Workshop on Safe and Trustworthy Multimodal AI Systems at ICCV 2025
+  - Hyungmin Kim, et al., **Safety-Aware Partially-Observable Embodied Task Planning**,  The Workshop on Safe and Trustworthy Multimodal AI Systems at ICCV 2025
   
   - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **"Communicative PARTNR: Natural Language Communication under Partial Observability in Human–Robot Collaboration"**, ICCV Workshop on Human-Robot-Scene Interaction and Collaboration, 2025.
 

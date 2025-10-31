@@ -2,9 +2,7 @@
   **2025**
   
   - 25.09.09 국내 특허 1건 출원
-
-  - Two papers are accepted at ICCV 2025 Workshop 
-
+  - 
   **2024**
 
   - Congratulations on receiving the Excellence Award for the [UST 2024 Research Paper Award](https://www.etnews.com/20241223000402)!
@@ -45,7 +43,7 @@
   
   **2025**
 
-  - Hyungmin Kim, et al., **Safety-Aware Partially-Observable Embodied Task Planning**,  The Workshop on Safe and Trustworthy Multimodal AI Systems at ICCV 2025
+  - Hyungmin Kim, et al., **Safety-Aware Partially-Observable Embodied Task Planning**,  The Workshop on Safe and Trustworthy Multimodal AI Systems at ICCV 2025 (short paper) 
   
   - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **"Communicative PARTNR: Natural Language Communication under Partial Observability in Human–Robot Collaboration"**, ICCV Workshop on Human-Robot-Scene Interaction and Collaboration, 2025.
 

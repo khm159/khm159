@@ -5,6 +5,8 @@
 
   - Two papers accepted to ICCV workshops
 
+  - Two papers accepted to NeurIPS workshops
+
   **2024**
 
   - Congratulations on receiving the Excellence Award for the [UST 2024 Research Paper Award](https://www.etnews.com/20241223000402)!

@@ -48,7 +48,7 @@
   - Hyungmin Kim, et al., **Safety-Aware Partially-Observable Embodied Task Planning**,  The Workshop on Safe and Trustworthy Multimodal AI Systems at ICCV 2025 (short paper) 
   
   - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **"Communicative PARTNR: Natural Language Communication under Partial Observability in Human–Robot Collaboration"**, ICCV Workshop on Human-Robot-Scene Interaction and Collaboration, 2025.
-  - 
+   
   - Jaewoo Choi, Hyungmin Kim, Hyobin Ong, Youngwoo Yoon, Minsu Jang, Dohyung Kim, Jaehong Kim, "ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning", arXiv preprint
 
   **2024**

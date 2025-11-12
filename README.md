@@ -116,5 +116,5 @@
 
 ## Embodied Task Planning 
 
-
+![agent](/assets/record_agent_back.gif)
 

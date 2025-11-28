@@ -43,6 +43,8 @@
   
   **2025**
 
+  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **Mind-Map Agent: Enhancing Cooperative Task Planning through Communication Alignment with Large Language Models**,  NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning, 2025
+  - 
   - Hyungmin Kim, et al., **SAPO: Safety-Aware Embodied Task Planning with fully Partially-Observable environment and physical constraints**,  NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning, 2025
   
   - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **"Communicative PARTNR: Natural Language Communication under Partial Observability in Human–Robot Collaboration"**, ICCV Workshop on Human-Robot-Scene Interaction and Collaboration, 2025.

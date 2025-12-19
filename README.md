@@ -3,6 +3,8 @@
   **2025**
   
   - 25.09.09 국내 특허 1건 출원
+
+  - one paper is accepted @ AAMAS 2026.
     
   **2024**
 
@@ -50,7 +52,7 @@
   
   - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **"Communicative PARTNR: Natural Language Communication under Partial Observability in Human–Robot Collaboration"**, ICCV Workshop on Human-Robot-Scene Interaction and Collaboration, 2025.
    
-  - Jaewoo Choi, Hyungmin Kim, Hyobin Ong, Youngwoo Yoon, Minsu Jang, Dohyung Kim, Jaehong Kim, **"ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning"**, arXiv preprint
+  - Jaewoo Choi, Hyungmin Kim, Hyobin Ong, Youngwoo Yoon, Minsu Jang, Dohyung Kim, Jaehong Kim, **"ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning"**, AAMAS 2026
 
   **2024**
   

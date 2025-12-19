@@ -10,9 +10,9 @@
 
   - Congratulations on receiving the Excellence Award for the [UST 2024 Research Paper Award](https://www.etnews.com/20241223000402)!
   
-  - one paper accecpted @*[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)*
+  - one paper is accecpted @*[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)*
 
-  - one paper accecpted @*[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*
+  - one paper is accecpted @*[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*
 
   **2023**
 

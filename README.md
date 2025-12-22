@@ -1,5 +1,7 @@
 # NEWS
 
+  **2026**
+
   **2025**
   
   - 25.09.09 국내 특허 1건 출원
@@ -43,6 +45,8 @@
 # Publication
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
+
+  **2026**
   
   **2025**
 

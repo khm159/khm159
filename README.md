@@ -2,7 +2,7 @@
 
   **2026**
 
-  - one paper is accepted at ICASSP 2026. congratulations!
+  - one paper is accepted @ [ICASSP 2026](https://2026.ieeeicassp.org). congratulations!
 
   **2025**
   
@@ -14,9 +14,9 @@
 
   - Congratulations on receiving the Excellence Award for the [UST 2024 Research Paper Award](https://www.etnews.com/20241223000402)!
   
-  - one paper is accecpted @*[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)*
+  - one paper is accecpted @*[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)* congratulations!
 
-  - one paper is accecpted @*[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)*
+  - one paper is accecpted @*[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)* congratulations!
 
   **2023**
 

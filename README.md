@@ -2,21 +2,21 @@
 
   **2026**
 
-  - one paper is accepted @ [ICASSP 2026](https://2026.ieeeicassp.org). congratulations!
+  - one paper is accepted @ [ICASSP 2026](https://2026.ieeeicassp.org). Congratulations!
 
   **2025**
   
   - 25.09.09 국내 특허 1건 출원
 
-  - one paper is accepted @ [AAMAS 2026](https://cyprusconferences.org/aamas2026/). congratulations!
+  - one paper is accepted @ [AAMAS 2026](https://cyprusconferences.org/aamas2026/). Congratulations!
     
   **2024**
 
   - Congratulations on receiving the Excellence Award for the [UST 2024 Research Paper Award](https://www.etnews.com/20241223000402)!
   
-  - one paper is accecpted @*[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)* congratulations!
+  - one paper is accecpted @*[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)* Congratulations!
 
-  - one paper is accecpted @*[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)* congratulations!
+  - one paper is accecpted @*[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)* Congratulations!
 
   **2023**
 
@@ -49,16 +49,17 @@
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 
   **2026**
+  - Hyungmin Kim et al. "SPOC: Safety-aware planning under parital observability and physical constraints", ICASSP 2026
   
   - Jaewoo Choi, Hyungmin Kim, Hyobin Ong, Youngwoo Yoon, Minsu Jang, Dohyung Kim, Jaehong Kim, **"ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning"**, AAMAS 2026
     
   **2025**
 
-  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **"Mind-Map Agent: Enhancing Cooperative Task Planning through Communication Alignment with Large Language Models"**,  NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning, 2025
+  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **"Mind-Map Agent: Enhancing Cooperative Task Planning through Communication Alignment with Large Language Models"**,  NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning (non-archival), 2025
     
-  - Hyungmin Kim, et al., **"SAPO: Safety-Aware Embodied Task Planning with fully Partially-Observable environment and physical constraints"**,  NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning, 2025
+  - Hyungmin Kim, et al., **"SAPO: Safety-Aware Embodied Task Planning with fully Partially-Observable environment and physical constraints"**,  NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning (non-archival), 2025
   
-  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **"Communicative PARTNR: Natural Language Communication under Partial Observability in Human–Robot Collaboration"**, ICCV Workshop on Human-Robot-Scene Interaction and Collaboration, 2025.
+  - Hobeom Jeon, Hyungmin Kim, Dohyung Kim, Minsu Jang, Jaehong Kim, **"Communicative PARTNR: Natural Language Communication under Partial Observability in Human–Robot Collaboration"**, ICCV Workshop on Human-Robot-Scene Interaction and Collaboration (non-archival), 2025.
 
   **2024**
   

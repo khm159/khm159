@@ -49,7 +49,7 @@
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 
   **2026**
-  - Hyungmin Kim et al. "SPOC: Safety-aware planning under parital observability and physical constraints", ICASSP 2026
+  
   
   - Jaewoo Choi, Hyungmin Kim, Hyobin Ong, Youngwoo Yoon, Minsu Jang, Dohyung Kim, Jaehong Kim, **"ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning"**, AAMAS 2026
     

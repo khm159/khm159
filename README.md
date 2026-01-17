@@ -2,11 +2,13 @@
 
   **2026**
 
+  - one paper is accepted at ICASSP 2026. congratulations!
+
   **2025**
   
   - 25.09.09 국내 특허 1건 출원
 
-  - one paper is accepted @ [AAMAS 2026](https://cyprusconferences.org/aamas2026/).
+  - one paper is accepted @ [AAMAS 2026](https://cyprusconferences.org/aamas2026/). congratulations!
     
   **2024**
 

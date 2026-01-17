@@ -97,7 +97,7 @@
 
   ![ust](/assets/ust.png)
 
-  -  2022.09 ~ current : Phd. candidate, Artificial Intelligence, Korea National University of Science and Technology (UST).
+  -  2022.09 ~ current : Ph.D. candidate, Artificial Intelligence, Korea National University of Science and Technology (UST).
   
   ![ust](/assets/ust.png)
 

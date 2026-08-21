@@ -97,7 +97,7 @@
 
   ![etri](/assets/etri.png) 
 
-  - 2020.01 ~ 2020.02 : Student Intern, Electronics and Telecommunications Research Institute(ETRI).
+  - 2020.01 ~ 2020.02 : Undergraduate Student Intern, Electronics and Telecommunications Research Institute(ETRI).
 
 # Education
 

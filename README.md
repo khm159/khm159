@@ -66,8 +66,3 @@
 
   - 통합형 이상 상황 탐지 방법 및 장치통합형 이상 상황 탐지 방법 및 장치, 출원 (23.05.17)
 
-# Research Interests
-
-## Human-Centric Embodied Task Planning 
-
-## World Models

@@ -93,11 +93,11 @@
 
   ![etri](/assets/etri.png)
 
-  - 2020.09 ~ 2026.08 : UST student researcher, Electronics and Telecommunications Research Institute(ETRI).
+  - 2020.09 ~ 2026.08 : UST student researcher, Electronics and Telecommunications Research Institute (ETRI).
 
   ![etri](/assets/etri.png) 
 
-  - 2020.01 ~ 2020.02 : Undergraduate Student Intern, Electronics and Telecommunications Research Institute(ETRI).
+  - 2020.01 ~ 2020.02 : Undergraduate Student Intern, Electronics and Telecommunications Research Institute (ETRI).
 
 # Education
 
@@ -111,7 +111,7 @@
 
   ![tukorea](/assets/tukorea.png)  
 
-  - 2013.03 ~ 2020.02 : Bachelor degree, Mechatronics, Tech University of Korea(TUKorea).
+  - 2013.03 ~ 2020.02 : Bachelor degree, Mechatronics, Tech University of Korea (TUKorea).
 
 # Technology Transfer
 

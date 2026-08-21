@@ -93,7 +93,7 @@
 
   ![etri](/assets/etri.png)
 
-  - 2020.09 ~ current : UST student researcher, Electronics and Telecommunications Research Institute(ETRI).
+  - 2020.09 ~ 2026.08 : UST student researcher, Electronics and Telecommunications Research Institute(ETRI).
 
   ![etri](/assets/etri.png) 
 

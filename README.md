@@ -52,6 +52,8 @@
 
   **2026**
 
+  - Hyungmin Kim et al., **"Trinity: Human–Agent–Environment Alignment for Embodied Task Planning"**, EMNLP findings 2026
+
   - Hyungmin Kim et al., **"SPOC: Safety-Aware Planning Under Partial Observability and Physical Constraints"**, ICASSP 2026
   
   - Jaewoo Choi, Hyungmin Kim, Hyobin Ong, Youngwoo Yoon, Minsu Jang, Dohyung Kim, Jaehong Kim, **"ReAcTree: Hierarchical LLM Agent Trees with Control Flow for Long-Horizon Task Planning"**, AAMAS 2026

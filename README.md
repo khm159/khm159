@@ -6,46 +6,6 @@
 
   - one paper is accepted @ [ICASSP 2026](https://2026.ieeeicassp.org). Congratulations!
 
-  **2025**
-  
-  - 25.09.09 국내 특허 1건 출원
-
-  - one paper is accepted @ [AAMAS 2026](https://cyprusconferences.org/aamas2026/). Congratulations!
-    
-  **2024**
-
-  - Congratulations on receiving the Excellence Award for the [UST 2024 Research Paper Award](https://www.etnews.com/20241223000402)!
-  
-  - one paper is accecpted @*[Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society)* Congratulations!
-
-  - one paper is accecpted @*[Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)* Congratulations!
-
-  **2023**
-
-  - 23.10.09 국제 특허(중국) 1건 출원
-  
-  - 23.10.02 국제 특허(미국) 1건 출원
-  
-  - 23.05.17 국내 특허 1건 출원 
-
-  **2022** 
-  
-  - 22.12.21 [KISA CCTV 공인인증 7항목 동시 획득 성공(최초)](https://mobile.newsis.com/view.html?ar_id=NISX20230208_0002185475&cID=&pID=00#_enliplee) ETRI-AIR, ETRI-AIR2
-
-  - 22.05.17 국내 특허 1건 출원
-
-# Awards
-
-- [Exellence Award of UST 2024 Research Paper Award(UST 연구 논문상 우수상)](https://www.etnews.com/20241223000402)
-
-# Patent 
-
-  - APPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTIONAPPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTION, CHINA, 출원 (23.10.08)
-
-  - APPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTIONAPPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTION, US, 출원 (23.10.02)
-
-  - 통합형 이상 상황 탐지 방법 및 장치통합형 이상 상황 탐지 방법 및 장치, 출원 (23.05.17)
-
 # Publication (selected)
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
@@ -95,6 +55,18 @@
   ![tukorea](/assets/tukorea.png)  
 
   - 2013.03 ~ 2020.02 : Bachelor degree, Mechatronics, Tech University of Korea (TUKorea).
+
+# Awards
+
+- [Exellence Award of UST 2024 Research Paper Award(UST 연구 논문상 우수상)](https://www.etnews.com/20241223000402)
+
+# Patent 
+
+  - APPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTIONAPPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTION, CHINA, 출원 (23.10.08)
+
+  - APPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTIONAPPARATUS AND METHOD FOR INTEGRATED ANOMALY DETECTION, US, 출원 (23.10.02)
+
+  - 통합형 이상 상황 탐지 방법 및 장치통합형 이상 상황 탐지 방법 및 장치, 출원 (23.05.17)
 
 # Research Interests
 

@@ -123,13 +123,8 @@
   
  - 2024.08. 지능형 영상 감시를 위한 휴먼 이상 행동 인식 기술, 5000 만원
 
-# Research Topic
+# Research Interests
 
-## Video Understanding 
+## Human-Centric Embodied Task Planning 
 
-![human](/assets/violence02.gif)
-
-## Embodied Task Planning 
-
-![agent](/assets/record_agent_back.gif)
-
+## World Models

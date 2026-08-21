@@ -1,8 +1,6 @@
 # NEWS
 
-  **2026**
-  
-  - one paper is accepted @ [EMNLP findings](https://2026.emnlp.org/). Congratulations!
+  - one paper is accepted @ [EMNLP findings 2026](https://2026.emnlp.org/). Congratulations!
 
   - one paper is accepted @ [ICASSP 2026](https://2026.ieeeicassp.org). Congratulations!
 

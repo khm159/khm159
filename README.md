@@ -4,7 +4,7 @@
 
   - one paper is accepted @ [ICASSP 2026](https://2026.ieeeicassp.org). Congratulations!
 
-# Publication (selected)
+# Selected Research 
 
   [Google Scholar](https://scholar.google.com/citations?user=GtOKDNoAAAAJ&hl=ko)
 

@@ -96,16 +96,6 @@
 
   - 2013.03 ~ 2020.02 : Bachelor degree, Mechatronics, Tech University of Korea (TUKorea).
 
-# Technology Transfer
-
- - 기술이전 누계액 : 1억 5천 만원
-
- - 2026.07. 산업안전 및 생활안전을 위한 휴먼 행동 인식 Vision AI 기술, 5000 만원
-
- - 2024.08. 지능형 영상 감시를 위한 휴먼 이상 행동 인식 기술, 5000 만원
-  
- - 2024.08. 지능형 영상 감시를 위한 휴먼 이상 행동 인식 기술, 5000 만원
-
 # Research Interests
 
 ## Human-Centric Embodied Task Planning 

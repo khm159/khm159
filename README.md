@@ -34,7 +34,7 @@
 
 # Job Experience 
 
-  ![kiro](/assets/kiro.png)
+  ![kiro](/assets/kiro.jpg)
 
   - 2026.09 ~ current : Senior researcher, Korea Institute of Robotics & Technology Convergence (KIRO).
 

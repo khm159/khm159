@@ -34,6 +34,10 @@
 
 # Job Experience 
 
+  ![kiro](/assets/kiro.png)
+
+  - 2026.09 ~ current : Senior researcher, Korea Institute of Robotics & Technology Convergence (KIRO).
+
   ![etri](/assets/etri.png)
 
   - 2020.09 ~ 2026.08 : UST student researcher, Electronics and Telecommunications Research Institute (ETRI).
